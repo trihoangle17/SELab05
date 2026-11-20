@@ -7,3 +7,7 @@
 
 ## Overview
 Windows Forms Application (.NET Framework 4.8) demonstrating Source Code Management (SCM), GitHub repository integration, team collaboration (Student A & Student B), branching, pulling, and merge conflict resolution.
+
+## Features Added
+- Student Name input (	xtStudentName)
+- Course Name input (	xtCourseName)
